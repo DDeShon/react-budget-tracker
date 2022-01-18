@@ -1,1 +1,1 @@
-Budget tracking app created with ReactJS
+Budget tracking app created with React and JavaScript.
