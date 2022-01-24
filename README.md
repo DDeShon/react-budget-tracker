@@ -1,1 +1,1 @@
-Budget tracking app created with React and JavaScript.
+This is a budget tracking app created with React and JavaScript. It allows the user to add labeled budgets with a max limit. It then allows the user to add expenses to the budgets and tracks how close to the max spending limit the user is.
